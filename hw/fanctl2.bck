@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMP_SNSR_HDR
+D Connector 02x10
+$ENDCMP
+#
+$CMP USB_HDR
+D USB Header, 4-pin, angled
+$ENDCMP
+#
+#End Doc Library
