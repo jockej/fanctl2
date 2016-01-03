@@ -1,8 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Decoupler
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP FANCTL2_R
+D Resistor
+K R DEV
+$ENDCMP
+#
 $CMP FAN_PMOS
 D Transistor P-MOSFET (general)
 K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+$CMP MOLEX_PWR
+D Connector 01x04
 $ENDCMP
 #
 $CMP Q_PMOS_DSG
