@@ -9,6 +9,11 @@ D Resistor
 K R DEV
 $ENDCMP
 #
+$CMP FAN_NMOS
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
 $CMP FAN_PMOS
 D Transistor P-MOSFET (general)
 K pmos p-mos p-mosfet transistor
