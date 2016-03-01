@@ -9,6 +9,10 @@ D Resistor
 K R DEV
 $ENDCMP
 #
+$CMP FAN_JMP
+D Connector 01x04
+$ENDCMP
+#
 $CMP FAN_NMOS
 D Transistor N-MOSFET (general)
 K nmos n-mos n-mosfet transistor
